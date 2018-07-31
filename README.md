@@ -97,8 +97,8 @@ cv2.findContours:引数は入力画像、抽出モード、近似手法<br>
 cv2.contourArea:引数は画像のある部分の領域<br>
 cv2.drawContours:引数は入力画像、Pythonのlistとして保存されている輪郭、描画したい輪郭のインデックス、輪郭を描画する色や線の太さを指定<br>
 
-実際の様子:https://youtu.be/4yP7nuXnQ38
-参考サイト:
+実際の様子:https://youtu.be/4yP7nuXnQ38<br>
+参考サイト:<br>
 http://programming-study.com/technology/python-file/<br>
 https://qiita.com/mix_dvd/items/5674f26af467098842f0
 
